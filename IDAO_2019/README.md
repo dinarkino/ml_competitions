@@ -1,7 +1,10 @@
 Нам третий чемпионат в команде Team ML (Оля Дорноступ, Александра Ли, Динар Шарафутдинов). Результаты: public 44/186, private 31/83. 
 
 https://idao.world/
+
 https://github.com/yandexdataschool/IDAO-2019-muon-id 
+
+data: https://yadi.sk/d/pdwdp4Lt5X4DMQ
 
 Условия: 
 
