@@ -1,5 +1,7 @@
 Small 3 days hackathon during RAAI summer school (http://school-raai.org/). 
+
 Kaggle: https://www.kaggle.com/c/metric-learning/overview
+
 Presentation and repository: https://github.com/papermsucode/raai2019hackface/blob/master/Metric%20learning%20for%20facial%20descriptors.pdf
 
 Results: public 14/29, private 15/29
