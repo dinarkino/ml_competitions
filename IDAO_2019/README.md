@@ -6,9 +6,9 @@ Our third championship in Team ML (Оля Дорноступ, Александр
 
 https://idao.world/
 
-https://github.com/yandexdataschool/IDAO-2019-muon-id 
+<b>Repository:</b> https://github.com/yandexdataschool/IDAO-2019-muon-id 
 
-<b>data:</b> https://yadi.sk/d/pdwdp4Lt5X4DMQ
+<b>Data:</b> https://yadi.sk/d/pdwdp4Lt5X4DMQ
 
 <b>Description:</b>
 
