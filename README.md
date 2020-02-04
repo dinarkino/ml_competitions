@@ -1,2 +1,3 @@
 # ml_competitions
-Публикую блокноты с соревнований
+Notebooks from the ML competitions
+
